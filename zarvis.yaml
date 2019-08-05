@@ -2,5 +2,5 @@ apiVersion: beta/v1
 deploy:
   skaffold: {}
 ingress:
-  - serviceName: public
-    port: 8080
+  - serviceName: example-service
+    port: 12222
