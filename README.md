@@ -2,6 +2,8 @@
 
 Simple http server example written in Go.
 
+[![Deploy](https://zarvis.ai/api/open/button.svg)](https://zarvis.ai/api/open)
+
 ## Run locally
 
  1. Start [Minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/)
