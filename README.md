@@ -1,6 +1,6 @@
 # zarvis-example-go
 
-Simple http server example written in Go.
+Simple http server example written in [Go](https://golang.org) and use [Skaffold](https://skaffold.dev) to build.
 
 [![Deploy](https://zarvis.ai/api/open/button.svg)](https://zarvis.ai/api/open)
 
